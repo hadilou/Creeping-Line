@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="secondStepTest_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="secondStepTest" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1644549764fs"></ZoomEndTime>
+      <Cursor1Time time="500000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="141"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/secondStepTest/uut_second/sw0_in" type="logic">
+      <obj_property name="ElementShortName">sw0_in</obj_property>
+      <obj_property name="ObjectShortName">sw0_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw1_in" type="logic">
+      <obj_property name="ElementShortName">sw1_in</obj_property>
+      <obj_property name="ObjectShortName">sw1_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw2_in" type="logic">
+      <obj_property name="ElementShortName">sw2_in</obj_property>
+      <obj_property name="ObjectShortName">sw2_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw3_in" type="logic">
+      <obj_property name="ElementShortName">sw3_in</obj_property>
+      <obj_property name="ObjectShortName">sw3_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw4_in" type="logic">
+      <obj_property name="ElementShortName">sw4_in</obj_property>
+      <obj_property name="ObjectShortName">sw4_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw5_in" type="logic">
+      <obj_property name="ElementShortName">sw5_in</obj_property>
+      <obj_property name="ObjectShortName">sw5_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw6_in" type="logic">
+      <obj_property name="ElementShortName">sw6_in</obj_property>
+      <obj_property name="ObjectShortName">sw6_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw7_in" type="logic">
+      <obj_property name="ElementShortName">sw7_in</obj_property>
+      <obj_property name="ObjectShortName">sw7_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw8_in" type="logic">
+      <obj_property name="ElementShortName">sw8_in</obj_property>
+      <obj_property name="ObjectShortName">sw8_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw9_in" type="logic">
+      <obj_property name="ElementShortName">sw9_in</obj_property>
+      <obj_property name="ObjectShortName">sw9_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw10_in" type="logic">
+      <obj_property name="ElementShortName">sw10_in</obj_property>
+      <obj_property name="ObjectShortName">sw10_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw11_in" type="logic">
+      <obj_property name="ElementShortName">sw11_in</obj_property>
+      <obj_property name="ObjectShortName">sw11_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw12_in" type="logic">
+      <obj_property name="ElementShortName">sw12_in</obj_property>
+      <obj_property name="ObjectShortName">sw12_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw13_in" type="logic">
+      <obj_property name="ElementShortName">sw13_in</obj_property>
+      <obj_property name="ObjectShortName">sw13_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw14_in" type="logic">
+      <obj_property name="ElementShortName">sw14_in</obj_property>
+      <obj_property name="ObjectShortName">sw14_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/sw15_in" type="logic">
+      <obj_property name="ElementShortName">sw15_in</obj_property>
+      <obj_property name="ObjectShortName">sw15_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/clk_in" type="logic">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/mult_entity/enable" type="array">
+      <obj_property name="ElementShortName">enable[1:0]</obj_property>
+      <obj_property name="ObjectShortName">enable[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/mult_entity/outputMux" type="array">
+      <obj_property name="ElementShortName">outputMux[3:0]</obj_property>
+      <obj_property name="ObjectShortName">outputMux[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/output_segment" type="array">
+      <obj_property name="ElementShortName">output_segment[7:0]</obj_property>
+      <obj_property name="ObjectShortName">output_segment[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/output_selected" type="array">
+      <obj_property name="ElementShortName">output_selected[3:0]</obj_property>
+      <obj_property name="ObjectShortName">output_selected[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/s_output_counter" type="array">
+      <obj_property name="ElementShortName">s_output_counter[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s_output_counter[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/s_output_multiplexer" type="array">
+      <obj_property name="ElementShortName">s_output_multiplexer[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_output_multiplexer[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/secondStepTest/uut_second/s_output_2bit_decoder" type="array">
+      <obj_property name="ElementShortName">s_output_2bit_decoder[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_output_2bit_decoder[3:0]</obj_property>
+   </wvobject>
+</wave_config>
